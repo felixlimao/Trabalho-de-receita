@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+   // padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(47, 64, 214);
+    font-family: "Montserrat", sans-serif;
+}
+
+img{
+    width:80vw;
+    height: 60vh;
+    margin: 40px;// espaçamento externo
+    border-radius: 7px;
+}
+
+ul{
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Montagu Slab", serif;
+    color: rgb(47, 64, 214);
+    background-color: rgb(21, 22, 75);
+    border-radius: 15px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(47, 64, 214);
+    background-color: rgb(21, 22, 75);
+    border-radius: 15px;
+    width: fit-content;
+    padding: 0px 15px;
+}
+
+main{
+  
+    // 1 valor será aplicado para os 4 lados
+    //padding: 20px ;
+    // 2 valores serao aplicados para
+    // primeiro valor top, bottom, segundo para os lados
+    //pra os 4 lados:
+    //padding: 20px 10px 80px 0;
+    //top, lef, bottom, rigth
+    padding-left: 20px;
+}

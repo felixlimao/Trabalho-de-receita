@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(47, 64, 214);
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  width: 80vw;
+  height: 60vh;
+  margin: 40px;
+  border-radius: 7px;
+}
+
+ul {
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Montagu Slab", serif;
+  color: rgb(47, 64, 214);
+  background-color: rgb(21, 22, 75);
+  border-radius: 15px;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(47, 64, 214);
+  background-color: rgb(21, 22, 75);
+  border-radius: 15px;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 0px 15px;
+}
+
+main {
+  padding-left: 20px;
+}/*# sourceMappingURL=style.css.map */
